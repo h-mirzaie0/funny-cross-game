@@ -1,2 +1,2 @@
-# comand
-ali,mo,rez,ar
+# add name and separat with ","
+ali,reza,ar
